@@ -1,5 +1,9 @@
 package pages;
-
+/**
+ * @Author: Ivan Barajas
+ * @Date: 08/09/2022
+ * @Version 1.0
+ */
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
